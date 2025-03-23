@@ -1,2 +1,2 @@
 # U-Net-Study
-Config files for my GitHub profile.
+It's merely the clumsy learning journey of U-Net of an ordinary individual.
